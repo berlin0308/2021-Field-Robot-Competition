@@ -1,6 +1,5 @@
-# Handsome_Field_Robot
+# 2021 NTU BME Field Robot Competition
 
-2021 NTU BME FieldRobotCompetition
 
 ## Features
 
